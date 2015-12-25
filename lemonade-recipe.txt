@@ -1,0 +1,10 @@
+Ingredients:
+ - lemon
+ - water
+ - sugar
+ - ice
+
+Directions:
+  1. Pour water into glass.
+  2. Squeeze lemon into water.
+  3. Add sugar and ice.
